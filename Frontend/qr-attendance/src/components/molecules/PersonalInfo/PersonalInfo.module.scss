@@ -1,0 +1,45 @@
+.info-container {
+  display: flex;
+  justify-content: center;
+  background: #f5f5f5;
+  padding: 16px;
+}
+
+.card-container {
+  background-color: #fff;
+  height: 135px;
+  width: 98%;
+  padding: 14px;
+  margin-top: 20px;
+  border-radius: 16px !important;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.box-welcome {
+  margin-bottom: 8px;
+}
+
+.text-welcome {
+  color: #001bb7;
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+
+.text-employee {
+  font-size: 10px !important;
+}
+
+.box-info {
+  margin-top: 8px;
+}
+
+.text-name {
+  color: #ed3500;
+  font-size: 22px !important;
+  font-weight: bold !important;
+}
+
+.text-position {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}

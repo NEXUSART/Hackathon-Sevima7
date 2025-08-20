@@ -1,0 +1,37 @@
+.box-container {
+  display: flex;
+  justify-content: center;
+  background: #f5f5f5;
+  padding: 16px;
+}
+
+.card-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  width: 98%;
+  padding: 14px;
+  margin-top: 20px;
+  border-radius: 16px !important;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.text-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.map-wrapper {
+  flex: 1;
+  width: 100%;
+  min-height: 200px;
+  margin: 10px 0;
+}
+
+.notes-input {
+  margin: 8px 0;
+}
+
